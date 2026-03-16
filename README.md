@@ -144,7 +144,7 @@ You can add screenshots of:
 ![Search UI](images/interface.png)
 
 * Alternative bus options
-  !{other options](images/other_option.png)
+  ![other options](images/other_option.png)
 ---
 
 ## 🛠 Tech Stack
