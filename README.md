@@ -150,8 +150,9 @@ You can add screenshots of:
 ## 🛠 Tech Stack
 
 🐍 Python
-📊 Pandas
+📊 R 
 🖥 Streamlit
+🛢 SQL
 🚌 GTFS Transit Data
 
 ---
